@@ -1,0 +1,37 @@
+skinparam {
+
+NoteBackgroundColor grey
+
+ParticipantFontname Times
+ParticipantBorderColor #6300a9
+ParticipantBackgroundColor #471260
+ParticipantFontSize 24
+
+databaseBackgroundColor grey
+
+classFontColor white
+classFontName Times
+classFontSize 16
+
+ArrowFontName Times
+ArrowFontSize 14
+ArrowColor white
+
+ActorBackgroundColor #323232
+ActorBorderColor white
+ActorFontColor white
+ActorFontSize 16
+ActorFontName Times
+
+SwimlaneTitleFontColor White
+SwimlaneBorderColor white
+SwimlaneTitleFontSize 16
+SwimlaneTitleFontName Times
+SwimlaneBorderThickness 2
+
+ActivityBarColor ##252525
+
+''backgroundColor null 
+backgroundColor None
+
+}
