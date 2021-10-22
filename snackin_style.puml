@@ -1,5 +1,3 @@
-!includeurl https://raw.githubusercontent.com/Drakemor/RedDress-PlantUML/master/style.puml
-
 skinparam {
 
 NoteBackgroundColor grey
